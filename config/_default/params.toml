@@ -1,0 +1,89 @@
+########################### Site Params ############################
+# favicon module
+favicon = "images/favicon.png"
+# logo module
+logo = "images/logo.png"
+logo_darkmode = "images/logo-darkmode.png"
+logo_width = "160px"
+logo_height = "32px"
+logo_webp = true
+logo_text = "UX Research Insights"
+# navbar fixed to top
+navbar_fixed = true
+# theme-mode
+theme_switcher = true
+theme_default = "system" # available options: [light/dark/system]
+# Main Sections
+mainSections = ["blog"]
+# contact form action
+contact_form_action = "#" # Placeholder. Configure if using a contact form.
+# google tag manager
+google_tag_manager = ""
+google_adsense = ""
+# custom script on header
+custom_script = ""
+# copyright
+copyright = "Designé & développé par [Léo Winterhalter](https://bento.me/leo-winterhalter)"
+
+############################ Preloader #############################
+[preloader]
+enable = false
+preloader = "" # Use jpg, png, svg, or gif format.
+
+
+############################# Search ###############################
+[search]
+enable = true
+primary_color = "#121212"
+include_sections = ["blog"]
+show_image = true
+show_description = true
+show_tags = true
+show_categories = true
+
+########################### Announcement ###########################
+[announcement]
+enable = true
+expire_days = 7
+content = "Bienvenue sur mon site dédié à la recherche en UX. Découvrez des articles et des ressources utiles."
+
+########################### SEO Metadata ###########################
+[metadata]
+keywords = ["UX Research", "User Experience", "Recherche UX"]
+description = "Un site dédié à l'exploration de la recherche utilisateur et à la conception centrée sur l'humain."
+author = "Léo Winterhalter"
+twitter = "YourTwitterHandle"
+image = "images/og-image.png"
+
+########################## Site Verifications ######################
+[site_verification]
+google = ""   # Code de vérification Google
+bing = ""     # Code de vérification Bing
+baidu = ""    # Code de vérification Baidu
+facebook = "" # Code de vérification Facebook
+mastodon = "" # Code de vérification Mastodon
+
+############################ Cookies ###############################
+[cookies]
+enable = true
+expire_days = 60
+content = "Ce site utilise des cookies pour améliorer votre expérience. En continuant à naviguer, vous acceptez leur utilisation."
+button = "J'accepte"
+
+######################## Sidebar Widgets ###########################
+[widgets]
+sidebar = ["categories", "tags"]
+
+############################ Google Map ############################
+[google_map]
+enable = false
+map_api_key = ""
+map_latitude = "0.000000"
+map_longitude = "0.000000"
+map_marker = "images/marker.png"
+
+########################## Subscription ############################
+[subscription]
+enable = false
+mailchimp_form_action = "" # Remplacez cette URL si vous utilisez Mailchimp.
+mailchimp_form_name = ""
