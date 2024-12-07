@@ -5,8 +5,8 @@ description: "Analyse des avantages et des limites du dark mode dans le design U
 date: 2024-12-05T08:00:00Z
 image: "/images/dark-mode-ux.jpg"
 author: "Leo Winterhalter"
-categories: ["UX", "Accessibilité", "Nouvelles Technologies"]
-tags: ["Dark Mode", "Accessibilité", "UX Design"]
+categories: ["UX", "Accessibilité"]
+tags: ["Dark Mode", "Tendances UX", "Ergonomie"]
 ---
 
 Depuis quelques années, le mode sombre (**dark mode**) s’est imposé comme une fonctionnalité incontournable dans le design d’interface utilisateur. Mais où se situe réellement la frontière entre effet de mode et besoin utilisateur ? Explorons cette tendance sous l’angle de l’UX.
@@ -78,7 +78,12 @@ Le dark mode est bien plus qu’une mode passagère. S’il répond à des besoi
 ## Sources
 
 1. [Dark Theme: 5 UI Design Tips](https://uxplanet.org/dark-theme-5-ui-design-tips-d70d86441757?gi=a798ad1e03c8)  
+   *Un guide pratique pour concevoir des thèmes sombres efficaces, avec des conseils axés sur l'ergonomie et l'esthétique.*
 2. [Designing for Dark Mode: Key Considerations and Best Practices](https://www.uxteam.com/designing-for-dark-mode-key-considerations-and-best-practices/)  
+   *Cet article explore les meilleures pratiques pour intégrer le mode sombre dans les interfaces utilisateur, tout en respectant les besoins des utilisateurs.*
 3. [Dark Mode Design Best Practices for UI/UX](https://codimite.ai/blog/dark-mode-design-best-practices-for-ui-ux/)  
+   *Une analyse approfondie des principes fondamentaux du design pour le mode sombre, avec des exemples concrets et des erreurs à éviter.*
 4. [Dark UI: The Pros and Cons](https://www.toptal.com/designers/ui/dark-ui)  
+   *Un article qui met en balance les avantages et inconvénients des interfaces sombres, en offrant une perspective nuancée sur leur utilisation.*
 5. [Dark Mode Users Issues](https://www.nngroup.com/articles/dark-mode-users-issues/)  
+   *Une étude de Nielsen Norman Group qui examine les défis rencontrés par les utilisateurs dans les interfaces en mode sombre, avec des recommandations pour améliorer l'accessibilité.*

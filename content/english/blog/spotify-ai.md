@@ -5,8 +5,8 @@ description: "Découvrez comment Spotify utilise l'IA pour personnaliser l'expé
 date: 2024-12-05T08:00:00Z
 image: "/images/ai-design-phase.jpg"
 author: "Leo Winterhalter"
-categories: ["UX", "Nouvelles Technologies"]
-tags: ["IA", "Spotify", "Expérience utilisateur"]
+categories: ["UX", "Nouvelles Technologies", "IA"]
+tags: ["Spotify", "Expérience utilisateur"]
 ---
 
 Dans un monde où les attentes des utilisateurs évoluent à une vitesse fulgurante, **Spotify s’est imposé comme une référence en matière d’expérience utilisateur (UX)**. Mais quel est le moteur de cette réussite ? 
@@ -75,9 +75,9 @@ L’exemple de Spotify prouve que l’IA peut transformer l’expérience utilis
 ## Sources
 
 1. [Designing for Tomorrow: A Discussion on Ethical Design](https://spotify.design/article/designing-for-tomorrow-a-discussion-on-ethical-design)  
-   Un article détaillé sur les principes de conception éthique chez Spotify.
+   *Un article détaillé sur les principes de conception éthique chez Spotify.*
 
 2. [The Top Four Ethical Considerations of AI in Design](https://creators.spotify.com/pod/show/patricia464/episodes/29-The-Top-Four-Ethical-Considerations-of-AI-in-Design-e23bv4s)  
-   Un épisode de podcast explorant les implications éthiques de l'intelligence artificielle dans le design.
+   *Un épisode de podcast explorant les implications éthiques de l'intelligence artificielle dans le design.*
 
 ---

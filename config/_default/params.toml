@@ -43,7 +43,7 @@ show_categories = true
 
 ########################### Announcement ###########################
 [announcement]
-enable = true
+enable = false
 expire_days = 7
 content = "Bienvenue sur mon site dédié à la recherche en UX. Découvrez des articles et des ressources utiles."
 
@@ -65,7 +65,7 @@ mastodon = "" # Code de vérification Mastodon
 
 ############################ Cookies ###############################
 [cookies]
-enable = true
+enable = false
 expire_days = 60
 content = "Ce site utilise des cookies pour améliorer votre expérience. En continuant à naviguer, vous acceptez leur utilisation."
 button = "J'accepte"

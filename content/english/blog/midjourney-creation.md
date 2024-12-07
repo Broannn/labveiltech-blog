@@ -3,10 +3,10 @@ title: "MidJourney : Une révolution visuelle pour les créateurs de contenu"
 meta_title: "MidJourney et la création visuelle : un nouvel horizon"
 description: "Découvrez comment MidJourney révolutionne la création de contenu visuel en démocratisant l'accès à des outils de génération d'images assistés par l'IA."
 date: 2024-12-05T08:00:00Z
-image: "/images/midjourney-revolution.jpg"
+image: "/images/midjourney-revolution.webp"
 author: "Leo Winterhalter"
-categories: ["Nouvelles Technologies", "Création Visuelle"]
-tags: ["MidJourney", "IA", "Design graphique"]
+categories: ["Nouvelles Technologies", "Création Visuelle", "IA"]
+tags: ["MidJourney", "Design graphique"]
 ---
 
 
@@ -41,12 +41,10 @@ La production d’images de haute qualité nécessite traditionnellement des com
 
 ### 2. Exploration créative sans limites
 
-{{< notice "tip" >}}
 MidJourney excelle dans la création de concepts innovants et expérimentaux. Les artistes peuvent l'utiliser pour :
 - Esquisser des idées ou moodboards.
 - Explorer des styles artistiques inhabituels.
 - Visualiser des concepts complexes avant de les développer.
-{{< /notice >}}
 
 ### 3. Accessibilité pour tous
 
@@ -112,5 +110,7 @@ MidJourney représente une avancée majeure dans la création visuelle, offrant 
 ## Sources
 
 1. [MidJourney Official Documentation](https://midjourney.com)  
-2. [AI and Creativity: The Future of Content Design](https://example.com/ai-creativity)  
-3. [Challenges of AI in Visual Design](https://example.com/ai-challenges-visual-design)
+2. [Midjourney : Explorez le Futur de l’IA dans la création de contenu](https://www.glowbl.com/blog/midjourney/)  
+   *Une analyse approfondie de l'impact de MidJourney sur la création de contenu et son rôle dans l'évolution des outils assistés par l'IA.*
+3. [MidJourney : Une révolution dans la création d’images par IA](https://tamento.com/blog/intelligence-artificielle/midjourney-une-revolution-dans-la-creation-dimages-par-ia/)  
+   *Cet article explore les avantages et les défis de l'utilisation de MidJourney dans le processus créatif, en mettant en lumière ses spécificités.*
