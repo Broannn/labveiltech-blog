@@ -4,12 +4,11 @@ meta_title: "Optimiser sa veille : un système structuré pour les créateurs et
 description: "Découvrez comment j'utilise Notion, les réseaux sociaux et des newsletters pour organiser ma veille et produire des articles impactants."
 date: 2024-12-05T08:00:00Z
 image: "/images/systeme-veille.jpg"
+image_title: "systeme-veille"
 author: "Leo Winterhalter"
 categories: ["Veille", "Productivité", "Nouvelles Technologies"]
 tags: ["Notion", "Réseaux Sociaux", "Newsletters", "Veille Stratégique"]
 ---
-
-## Un système de veille pour développer son expertise
 
 En tant qu’étudiant, il est essentiel de rester informé sur les dernières tendances et avancées dans mes domaines de prédilection. Pour cela, j’ai mis en place un **système de veille structuré** qui me permet de collecter, organiser et exploiter des informations pertinentes. Cet article détaille les outils et les stratégies que j’utilise pour alimenter mes réflexions et rédiger des articles impactants.
 

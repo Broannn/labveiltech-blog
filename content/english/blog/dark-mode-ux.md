@@ -4,6 +4,7 @@ meta_title: "Le dark mode dans l'UX : au-delà de la tendance"
 description: "Analyse des avantages et des limites du dark mode dans le design UX et son impact sur l'accessibilité et le confort visuel."
 date: 2024-12-05T08:00:00Z
 image: "/images/dark-mode-ux.jpg"
+image_title: "dark-mode-ux"
 author: "Leo Winterhalter"
 categories: ["UX", "Accessibilité"]
 tags: ["Dark Mode", "Tendances UX", "Ergonomie"]

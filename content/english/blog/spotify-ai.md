@@ -4,6 +4,7 @@ meta_title: "L'ère de l'intelligence artificielle : Spotify en tête de l'innov
 description: "Découvrez comment Spotify utilise l'IA pour personnaliser l'expérience musicale et fidéliser ses utilisateurs."
 date: 2024-12-05T08:00:00Z
 image: "/images/ai-design-phase.jpg"
+image_title: "ai-design-phase"
 author: "Leo Winterhalter"
 categories: ["UX", "Nouvelles Technologies", "IA"]
 tags: ["Spotify", "Expérience utilisateur"]
