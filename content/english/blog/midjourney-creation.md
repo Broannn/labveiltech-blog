@@ -3,7 +3,8 @@ title: "MidJourney : Une révolution visuelle pour les créateurs de contenu"
 meta_title: "MidJourney et la création visuelle : un nouvel horizon"
 description: "Découvrez comment MidJourney révolutionne la création de contenu visuel en démocratisant l'accès à des outils de génération d'images assistés par l'IA."
 date: 2024-12-05T08:00:00Z
-image: "/images/midjourney-revolution.webp"
+image: "/images/midjourney-revolution.jpg"
+image_title: "midjourney-revolution"
 author: "Leo Winterhalter"
 categories: ["Nouvelles Technologies", "Création Visuelle", "IA"]
 tags: ["MidJourney", "Design graphique"]
