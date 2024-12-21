@@ -1,5 +1,5 @@
 ---
-meta_title: "À propos - Recherche UX"
+meta_title: "À propos"
 description: "Découvrez l'histoire et la mission derrière ce blog dédié à la recherche UX et à l'exploration des méthodologies centrées sur l'utilisateur."
 image: "/images/avatar.jpg"
 draft: false
