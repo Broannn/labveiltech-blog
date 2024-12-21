@@ -2,7 +2,7 @@
 title: "Ma méthode de veille : outils et stratégies pour rester à la pointe"
 meta_title: "Optimiser sa veille : un système structuré pour les créateurs et étudiants"
 description: "Découvrez comment j'utilise Notion, les réseaux sociaux et des newsletters pour organiser ma veille et produire des articles impactants."
-date: 2024-12-05T08:00:00Z
+date: 2024-12-07T08:00:00Z
 image: "/images/systeme-veille.jpg"
 image_title: "systeme-veille"
 author: "Leo Winterhalter"

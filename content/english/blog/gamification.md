@@ -2,7 +2,7 @@
 title: "La Gamification dans l’UX : une nouvelle façon de captiver l’utilisateur"
 meta_title: "Gamification et UX : L'innovation au service de l'engagement utilisateur"
 description: "Découvrez comment la gamification transforme l'expérience utilisateur en intégrant des éléments de jeu dans des contextes non ludiques."
-date: 2023-12-05T08:00:00Z
+date: 2023-12-09T08:00:00Z
 image: "/images/gamification-ux.png"
 author: "Leo Winterhalter"
 categories: ["UX"]
