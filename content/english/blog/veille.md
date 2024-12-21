@@ -45,7 +45,7 @@ Reddit est une autre plateforme clé pour ma veille. Les sous-reddits comme [**r
 
 ## S’abonner à des newsletters spécialisées
 
-Les **newsletters** sont un moyen fantastique de recevoir des contenus de qualité directement dans ma boîte mail, sans avoir à chercher activement. Parmi mes préférées :
+Les **newsletters** sont un moyen fantastique de recevoir des contenus de qualité directement dans ma boîte mail, sans avoir à chercher activement. J'ai trouvé quelques newsletters dans les thèmes qui m'intéressaient et je me suis abonné, parmi mes préférées :
 
 - [**There’s an AI for That**](https://theresanaiforthat.com/) : Explore les dernières innovations en intelligence artificielle avec une curation régulière d’outils basés sur l’IA.
 - [**Future Crunch**](https://futurecrun.ch/) : Axée sur les innovations technologiques et scientifiques, cette newsletter met en avant des récits positifs sur l’impact des nouvelles technologies.
@@ -55,7 +55,7 @@ Les **newsletters** sont un moyen fantastique de recevoir des contenus de qualit
 
 ---
 
-## Conclusion : un système modulable pour évoluer
+## Un système qui continuera d'évoluer
 
 Mon système de veille m’aide non seulement à rester informé, mais aussi à organiser mes idées et à enrichir la qualité de mes articles. **Sa flexibilité est un véritable atout**, car il évolue à mesure que je découvre de nouveaux outils ou affine mes méthodes. Cette démarche me permet de structurer mes pensées, d’anticiper les tendances et de développer une expertise solide dans mes domaines d’intérêt.
 

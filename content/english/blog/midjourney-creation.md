@@ -23,89 +23,52 @@ Cette approche intuitive fait de MidJourney un outil accessible, même pour ceux
 
 #### Quelques exemples
 {{< gallery dir="/images/gallery" height="1400" width="928" webp="true" class="img-fluid" >}}
-{{< figure src="/images/gallery/01.jpg" caption="texte1" >}}
-{{< figure src="/images/gallery/image2.jpg" caption="texte2" >}}
-{{< figure src="/images/gallery/image3.jpg" caption="texte3" >}}
-{{< figure src="/images/gallery/image4.jpg" caption="texte4" >}}
-{{< figure src="/images/gallery/image5.jpg" caption="texte5" >}}
 
 ---
 
 ## Une révolution pour les créateurs de contenu
 
-MidJourney répond à des besoins variés, tant pour les professionnels du design que pour les amateurs, en leur offrant un moyen de créer du contenu rapidement, sans compromis sur la qualité.
+MidJourney est particulièrement intéressant pour les ingénieurs des médias et les créateurs de contenu car il permet de :
 
-### 1. Gain de temps et de ressources
+1. Créer des visuels sur mesure pour illustrer des idées ou enrichir des projets de communication.
+2. Explorer des concepts visuels novateurs sans les contraintes traditionnelles des outils de design.
+3. Accélérer le processus de production visuelle, ce qui est crucial dans des environnements exigeant des délais courts.
 
-La production d’images de haute qualité nécessite traditionnellement des compétences techniques et des logiciels coûteux. Avec MidJourney, un créateur peut générer des visuels impressionnants en quelques clics, éliminant ainsi la nécessité de longues heures de travail ou de collaborations externes.
-
-### 2. Exploration créative sans limites
-
-MidJourney excelle dans la création de concepts innovants et expérimentaux. Les artistes peuvent l'utiliser pour :
-- Esquisser des idées ou moodboards.
-- Explorer des styles artistiques inhabituels.
-- Visualiser des concepts complexes avant de les développer.
-
-### 3. Accessibilité pour tous
-
-Que vous soyez un entrepreneur cherchant à illustrer une idée, un étudiant en design ou un professionnel du marketing, **MidJourney démocratise la création visuelle.** Cet outil ouvre des possibilités infinies, indépendamment des compétences techniques ou des ressources disponibles.
+Que ce soit pour des prototypes, des moodboards, ou des supports marketing, MidJourney peut transformer une vision en image en quelques secondes. Et cette faculté peut être très utile dans les phases d'itérations de projets.
 
 ---
 
-## Des applications variées pour un large éventail de secteurs
+## Quelques exemples concrets pour notre domaine
 
-### 1. Marketing et communication
+### Lors de la conception de contenu multimédia :
 
-Les marketeurs utilisent MidJourney pour créer des visuels accrocheurs adaptés aux réseaux sociaux, aux publicités ou aux campagnes e-mail. L’outil permet d’adapter les visuels à des thèmes spécifiques, comme les tendances saisonnières ou les événements culturels.
+- Illustrer des articles, vidéos ou publications sur les réseaux sociaux.
+- Générer des supports pour des projets pédagogiques ou créatifs.
 
-### 2. Design et architecture
+### En phase de brainstorming ou de pré-production :
 
-Les designers utilisent MidJourney pour concevoir des prototypes visuels, explorer des palettes de couleurs ou imaginer des décors avant de les intégrer dans des projets concrets.
+- Tester des concepts visuels ou explorer des styles artistiques pour des projets audiovisuels.
 
-### 3. Enseignement et apprentissage
+### our enrichir vos productions avec des visuels uniques :
 
-Dans le secteur éducatif, MidJourney est utilisé pour créer des supports visuels captivants qui facilitent l’apprentissage, en particulier dans les domaines scientifiques ou artistiques.
+- Concevoir des images adaptées aux spécificités de vos projets, sans avoir recours à des banques d’images ou à des freelances externes.
 
 ---
 
-## Les défis et limites de MidJourney
 
-Si MidJourney ouvre de nouvelles perspectives, il soulève également des questions importantes :
-
-### 1. Droits d’auteur et propriété intellectuelle
+### Droits d’auteur et propriété intellectuelle
 
 {{< notice "warning" >}}
 La création automatisée d'images soulève des interrogations quant à la propriété des visuels générés. Qui possède l'œuvre : l’utilisateur ou la plateforme qui alimente l’IA ? Les règles restent floues et varient selon les juridictions.
 {{< /notice >}}
 
-### 2. Absence de contrôle humain total
-
-Bien que puissante, l'IA de MidJourney ne remplace pas totalement la sensibilité humaine. Les créateurs doivent souvent affiner ou corriger les résultats pour qu’ils correspondent précisément à leur vision.
-
-### 3. Dépendance technologique
-
-MidJourney nécessite une connexion Internet stable et une infrastructure performante pour fonctionner. Cette dépendance limite son accessibilité dans certaines régions ou pour des utilisateurs avec des contraintes techniques.
-
 ---
-
-## Un avenir prometteur pour la création assistée par l’IA
-
-MidJourney n'est pas seulement un outil ; c'est une source d'inspiration pour les créateurs, les aidant à repousser les limites de leur imagination. À mesure que les algorithmes s’améliorent, on peut envisager des fonctionnalités encore plus avancées, comme :
-
-- Une personnalisation accrue des résultats.
-- Une meilleure compréhension des contextes culturels et stylistiques.
-- Une intégration fluide avec des outils de design populaires comme Photoshop ou Canva.
-
----
-
 
 ## Conclusion : une révolution à embrasser avec précaution
 
 MidJourney représente une avancée majeure dans la création visuelle, offrant une liberté créative et une accessibilité sans précédent. Cependant, il est crucial pour les créateurs de l’utiliser comme un **complément à leur talent et à leur expertise**, et non comme un substitut. En tant qu'étudiant en ingénierie des médias, je vois dans MidJourney une opportunité exceptionnelle d'explorer de nouvelles formes de storytelling visuel tout en réfléchissant aux implications éthiques et créatives de cette technologie.
 
 ---
-
-
 
 ## Sources
 

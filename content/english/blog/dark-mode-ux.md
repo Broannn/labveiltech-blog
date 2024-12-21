@@ -12,7 +12,7 @@ tags: ["Dark Mode", "Tendances UX", "Ergonomie"]
 
 Depuis quelques années, le mode sombre (**dark mode**) s’est imposé comme une fonctionnalité incontournable dans le design d’interface utilisateur. Mais où se situe réellement la frontière entre effet de mode et besoin utilisateur ? Explorons cette tendance sous l’angle de l’UX.
 
-## Le dark mode : une réponse à des besoins variés
+## Pourquoi le mode sombre est-il intéressant ?
 
 Le mode sombre repose sur une **palette de couleurs inversée**, remplaçant généralement le texte noir sur fond blanc par du texte clair sur fond sombre. Ce choix, loin d’être purement esthétique, répond à des besoins bien réels pour certains utilisateurs.
 
@@ -30,27 +30,9 @@ Pour certaines personnes souffrant de troubles visuels comme la **photophobie** 
 
 ---
 
-## Quand le dark mode devient une contrainte
-
-Malgré ses avantages, le mode sombre n’est pas une solution miracle et peut même être contre-productif dans certains cas.
-
-#### 1. Lisibilité compromise
-
-Pour de longs blocs de texte, le fond sombre avec du texte clair peut être plus difficile à lire, en particulier pour les personnes atteintes de troubles de la vision ou de dyslexie. L’effet de halo lumineux autour des lettres blanches peut nuire à la clarté.
-
-#### 2. Problèmes d’accessibilité non résolus
-
-L’accessibilité ne se limite pas au contraste des couleurs. Si le dark mode est mal implémenté, avec des contrastes insuffisants ou des couleurs mal adaptées, il risque d’aggraver les problèmes d’expérience utilisateur pour certaines catégories d’utilisateurs.
-
-#### 3. Adaptation contextuelle
-
-Un mode sombre constant peut ne pas être idéal dans toutes les situations. Par exemple, dans un environnement très lumineux, le mode sombre peut devenir illisible, obligeant l’utilisateur à basculer manuellement vers un mode clair.
-
----
-
 ## Une tendance UX bien implantée
 
-Les grandes entreprises technologiques ont rapidement intégré le dark mode dans leurs écosystèmes, contribuant à en faire une norme UX.
+Les grandes entreprises technologiques ont rapidement intégré le dark mode dans leurs écosystèmes, contribuant à en faire une norme UX, il est donc très important de comprendre les tenants et aboussants de cette mode, qui est adoptée aujourd'hui par les plus grandes entreprises :
 
 - **Apple et Google** : Ces géants proposent un mode sombre à l’échelle de leurs systèmes d’exploitation, offrant une expérience cohérente sur toutes les applications natives.
 - **Réseaux sociaux** : Instagram, Twitter, et Facebook permettent à leurs utilisateurs de passer facilement en mode sombre, misant sur un design universel.
@@ -60,7 +42,7 @@ Cependant, ces implémentations s’accompagnent souvent d’options de personna
 
 ---
 
-## L’avenir de l’accessibilité
+## Pourquoi cela nous concerne en tant qu'UX Designer ?
 
 Pour que le mode sombre soit plus qu’une simple tendance UX, il doit s’inscrire dans une démarche globale d’accessibilité. Cela implique :
 
